@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Translator",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/translator.py",
+                "--input",
+                "${file}",
+                "--prompt",
+                "${workspaceFolder}/prompt.md"
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
