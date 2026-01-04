@@ -6,7 +6,7 @@
 ### The 5 Types of Problem Solving
 **Assume all of the following as "problem solving."**
 
-- Trouble 대응 type
+- Troubleshooting-oriented type
     - A major issue that occurs unexpectedly
     - Examples: losing your credit card, getting injured in a traffic accident
     - Executing the solution is urgent
