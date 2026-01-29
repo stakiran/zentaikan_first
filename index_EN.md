@@ -304,9 +304,9 @@ Examples:
 
 Examples:
 
-- Quantitative | Qualitative
-- Cost | performance
-- Short term | long term
+- Quantitative <-> Qualitative
+- Cost <-> performance
+- Short term <-> long term
 
 ### 🔨4: Logical factorization
 - Can be used in Decode and Ideate
